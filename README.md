@@ -189,7 +189,7 @@
   
     <section class="hero">
       <div class="card">
-        <h2 class="hero-title">Viewporxc cvbgnfht <span style="color: var(--brand-2); font-weight: 800;">Agencia Web</span></h2>
+        <h2 class="hero-title">Viewpor <span style="color: var(--brand-2); font-weight: 800;">Agencia Web</span></h2>
         <p class="hero-sub">Simplicidad, armonía y accesibilidad para posicionar tu marca en la web.</p>
 
         <div class="cta-grid" aria-label="Accesos rápidos a pestañas">
